@@ -1,4 +1,4 @@
-# Project-details---classification
+# Project-details-classification
 
 ## Background: 
 You are working as a risk analyst with a bank. Apart from the other banking and loan services, the
